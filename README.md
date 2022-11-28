@@ -1,2 +1,2 @@
 # Single-Player-Quake-Map
-Like As Above, So Below but for lonely people
+A single player quake map that will always keep the player guessing! 
